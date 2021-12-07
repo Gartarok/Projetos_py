@@ -1,4 +1,3 @@
-#pickle
 #Asooos
 A = input('Digite sua idade')
 print('A sua idade é' + A)
