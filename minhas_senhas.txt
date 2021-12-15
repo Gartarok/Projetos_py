@@ -1,2 +1,4 @@
 minha senha é:
 !@#$%¨&*(Fenix#256)
+
+o arquivo com as senhas de fato está na lista de ignore do git
