@@ -1,2 +1,3 @@
 # Projetos_py
-Repositório público de aprendizado, módulo Linux e Git, Bootcamp Itaú
+Repositório público de aprendizado.
+Projetos pessoais e de engenharia.
